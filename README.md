@@ -5,7 +5,9 @@ This app is developed to complete Task #5 of the Graduate Rotational Internship 
 ## App Demonstration : 
 
 
-https://user-images.githubusercontent.com/74460717/118683580-20e04e00-b81f-11eb-8374-c5ccf9f42fc0.mp4
+https://user-images.githubusercontent.com/74460717/118690348-9a7b3a80-b825-11eb-81ea-a6b380e4891b.mp4
+
+
 
 ## Task #5 Social Media Integration:
 
