@@ -19,6 +19,7 @@ Create a mobile app, where a user can log in through at least two social media f
 1. Android Studio
 2. Java
 3. XML
+
 ### Integrations used in the App:
 1. Google sign in Integration
 2. Facebook Integration
