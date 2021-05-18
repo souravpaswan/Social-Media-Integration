@@ -52,7 +52,8 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
     public static final int SignIn_value = 1;
 
     @Override
-    protected void onCreate(final Bundle savedInstanceState) {
+    protected void onCreate(final Bundle savedInstanceState) 
+    {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
