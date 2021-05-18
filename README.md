@@ -10,14 +10,16 @@ https://user-images.githubusercontent.com/74460717/118683580-20e04e00-b81f-11eb-
 Task #5 Social Media Integration:
 Create a mobile app, where a user can log in through at least two social media from such as Facebook and Google.
 
-### Features of the App:
-Sign in through Facebook as well as Google.
-After login, it displays all the details (e.g. name, profile photo, email, etc.) on the second page.
+## Features of the App:
+1. Sign in through Facebook as well as Google.
+
+2. After login, it displays all the details (e.g. name, profile photo, email, etc.) on the second page.
+
 ### Technology used the App:
-Android Studio
-Java
-XML
+1. Android Studio
+2. Java
+3. XML
 ### Integrations used in the App:
-Google sign in Integration
-Facebook Integration
+1. Google sign in Integration
+2. Facebook Integration
 
