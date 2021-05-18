@@ -36,7 +36,8 @@ import org.json.JSONObject;
 
 import java.util.Arrays;
 
-public class MainActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener{
+public class MainActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener
+{
 
     Button fb_loginButton, gmail_loginButton;
     CallbackManager callbackManager;
