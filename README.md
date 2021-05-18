@@ -13,7 +13,6 @@ Create a mobile app, where a user can log in through at least two social media f
 
 ## Features of the App:
 1. Sign in through Facebook as well as Google.
-
 2. After login, it displays all the details (e.g. name, profile photo, email, etc.) on the second page.
 
 ### Technology used the App:
