@@ -7,7 +7,8 @@ App Demonstration :
 
 https://user-images.githubusercontent.com/74460717/118683580-20e04e00-b81f-11eb-8374-c5ccf9f42fc0.mp4
 
-Task #5 Social Media Integration:
+##Task #5 Social Media Integration:
+
 Create a mobile app, where a user can log in through at least two social media from such as Facebook and Google.
 
 ## Features of the App:
